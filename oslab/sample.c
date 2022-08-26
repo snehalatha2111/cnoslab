@@ -5,3 +5,9 @@ Name : Mangapoti Snehalatha
 */
 //
 source code
+#include<stdio.h>
+int main()
+{
+  printf("HELLO WORLD");
+  return 0;
+}
